@@ -1,3 +1,7 @@
+## Custom bashrc file
+## Version: 1.0
+## Date: 9.23.13
+
 # If not running interactively, don't do anything
 [ -z "$PS1" ] && return
 
