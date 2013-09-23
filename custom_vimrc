@@ -1,7 +1,7 @@
-##  Custom vimrc
-##  Created by:  Matt D.
-##  Version: 1.0
-##  Date: 9.23.13
+"##  Custom vimrc
+"##  Created by:  Matt D.
+"##  Version: 1.0
+"##  Date: 9.23.13
 
 set nocompatible " dump the old fashioned vi support!
 set backspace=indent,eol,start " allow backspacing over everything in insert mode
